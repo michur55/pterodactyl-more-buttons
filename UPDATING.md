@@ -1,0 +1,1 @@
+If you are updating from an earlier version just take the resources file, and then build the panel again. https://pterodactyl.io/community/customization/panel.html
